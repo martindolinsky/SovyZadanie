@@ -1,2 +1,0 @@
-# SovyZadanie
-Created with CodeSandbox

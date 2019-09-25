@@ -1,0 +1,49 @@
+body {
+  position: relative;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
+  margin: 0px;
+}
+
+.header {
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+  background: white;
+  border-bottom-style: dashed;
+  color: black;
+  font-size: 0.8em;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0%;
+  margin-top: 10%;
+  left: 0%;
+  right: 0%;
+  background: #ffa500;
+  color: black;
+  font-size: 0.8em;
+}
+.img-city {
+  float: right;
+  height: 12em;
+  border-radius: 8px;
+  margin-left: 20px;
+}
+.img-logo {
+  float: right;
+  height: 1.5em;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+
+.img-mountains {
+  width: 100%;
+}
+
+p {
+  text-align: justify;
+}
